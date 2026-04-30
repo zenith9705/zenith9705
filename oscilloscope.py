@@ -1,3 +1,5 @@
+#THIS WORK IS WRITTEN BY CELINE L FOR DUTTLAB. CONTACT ZRL24@PITT.EDU FOR ANY INQUIRIES. 
+
 import matplotlib
 #matplotlib.use('TkAgg') #--> SUPER IMPORTANT
 import matplotlib.pyplot as plt
