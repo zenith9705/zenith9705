@@ -1,3 +1,6 @@
+#THIS WORK IS WRITTEN BY CELINE L FOR DUTTLAB. CONTACT ZRL24@PITT.EDU FOR ANY INQUIRIES. 
+
+
 from Controller.oscilloscope import grab_frequencies
 from src.core import Parameter, Experiment, Device
 from src.Controller.oscilloscope import Oscilloscope
