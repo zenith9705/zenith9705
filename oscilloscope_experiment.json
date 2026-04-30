@@ -1,0 +1,28 @@
+{
+    "experiments": {
+        "OscilloscopeExperiment": {
+            "class": "OscilloscopeExperiment",
+            "filepath": "C:\\Users\\celin\\PycharmProjects\\pittqlabsys\\src\\Model\\experiments\\oscilloscope_experiment.py",
+            "package": "Model",
+            "devices": {
+                "oscilloscope": {
+                    "class": "Oscilloscope",
+                    "filepath": "C:\\Users\\celin\\PycharmProjects\\pittqlabsys\\src\\Controller\\oscilloscope.py",
+                    "settings": {}
+                }
+            },
+            "settings": {
+                "channel1_enabled": false,
+                "channel2_enabled": false,
+                "channel3_enabled": false,
+                "channel4_enabled": false,
+                "trigger_source": 0,
+                "trigger_level": 0.0,
+                "num_acquisitions": 1,
+                "path": "",
+                "tag": "oscilloscope_experiment",
+                "save": false
+            }
+        }
+    }
+}
